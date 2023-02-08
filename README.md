@@ -6,4 +6,10 @@ The dataset used to train the diffusion models is based on that gathered by the 
 
 Workflow of the project:
 
-![DiffusionMass](results/ASIIMWE.ArnoldCalebPoster.png)
+![Symposium Poster](results/ASIIMWE.ArnoldCalebPoster.png)
+
+Some diffusion results:
+
+![Diffusion Mass](results/diffusion_mass_71.png)
+![Diffusion Consolidation](results/diffusion_consolidation.png)
+
