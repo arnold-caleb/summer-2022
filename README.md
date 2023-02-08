@@ -8,11 +8,9 @@ Workflow of the project:
 
 ![Symposium Poster](results/ASIIMWE.ArnoldCalebPoster.png)
 
-Some diffusion results:
+Some diffusion results of a mass and consolidation in the left lung:
 
-A mass in the left lung:
-![Diffusion Mass](results/diffusion_mass_71.gif)
+![Diffusion Mass](results/diffusion_mass_71.gif)![Diffusion Consolidation](results/diffusion_consolidation.gif)
 
-Consolidation in the left lung:
-![Diffusion Consolidation](results/diffusion_consolidation.gif)
+
 
