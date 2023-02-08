@@ -5,4 +5,5 @@ This project is from my freshman year summer at Columbia University and it aimed
 The dataset used to train the diffusion models is based on that gathered by the NIH and contains over 112,000 anonymized frontal-view chest radiographs from more than 30,000 patients. 
 
 Workflow of the project:
+
 ![DiffusionMass](results/ASIIMWE.ArnoldCalebPoster.png)
