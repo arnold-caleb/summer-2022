@@ -10,6 +10,6 @@ Workflow of the project:
 
 Some diffusion results:
 
-![Diffusion Mass](results/diffusion_mass_71.png)
-![Diffusion Consolidation](results/diffusion_consolidation.png)
+![Diffusion Mass](results/diffusion_mass_71.gif)
+![Diffusion Consolidation](results/diffusion_consolidation.gif)
 
