@@ -10,6 +10,9 @@ Workflow of the project:
 
 Some diffusion results:
 
+A mass in the left lung:
 ![Diffusion Mass](results/diffusion_mass_71.gif)
+
+Consolidation in the left lung:
 ![Diffusion Consolidation](results/diffusion_consolidation.gif)
 
