@@ -14,7 +14,7 @@ Sample diffusion results of generated chest x-rays of patients with masses and c
 
 ---
 
-### Similar research, in the field of medical image generation 
+### Similar research on medical image generation 
 
 (Credit: https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging for compiling the list)
 
