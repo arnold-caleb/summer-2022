@@ -8,7 +8,7 @@ Workflow of the project:
 
 ![Symposium Poster](results/ASIIMWE.ArnoldCalebPoster.png)
 
-Some diffusion results of a mass and consolidation in the left lung:
+Sample diffusion results of generated chest x-rays of patients with masses and consolidations in the left lung:
 
 ![Diffusion Mass](results/diffusion_mass_71.gif)![Diffusion Consolidation](results/diffusion_consolidation.gif)
 
