@@ -16,7 +16,7 @@ Some diffusion results of a mass and consolidation in the left lung:
 
 ### Similar research, in the field of medical image generation 
 
-(Credit: https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging)
+(Credit: https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging for compiling the list)
 
 **Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy** \
 *Yongyi Shi, Ge Wang* \
