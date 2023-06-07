@@ -1,14 +1,14 @@
 # Adapting Diffusion Models for Data Augmentation in Medical Imaging Domains
 
-This project is from my freshman year summer at Columbia University and it aimed to show that diffusion models, in this case, [Denoising diffusion probabilistic models](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf), can be used in the generation of in radiological scans of normal and diseased individuals in the NIH chest x-ray dataset—and as a result augment the dataset. The results were used to train an ensemble of binary classifiers which were then made intepretable using integrated gradients from the paper, [Axiomatic Attribution of Deep Networks](https://dl.acm.org/doi/10.5555/3305890.3306024).
+This project, conducted during my freshman summer at Columbia University, explores the application of diffusion models, specifically [Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf), to generate radiological scans. The generated scans, depicting both normal and diseased states, augment the NIH chest x-ray dataset. The enriched dataset subsequently trains an ensemble of binary classifiers, the interpretation of which is facilitated using integrated gradients as per the paper [Axiomatic Attribution of Deep Networks](https://dl.acm.org/doi/10.5555/3305890.3306024).
 
-The dataset used to train the diffusion models is based on that gathered by the NIH and contains over 112,000 anonymized frontal-view chest radiographs from more than 30,000 patients. 
+The dataset leveraged to train the diffusion models comprises over 112,000 anonymized frontal-view chest radiographs, obtained from more than 30,000 patients, collected by the NIH.
 
-Workflow of the project:
+The following diagram illustrates the project workflow:
 
 ![Symposium Poster](results/ASIIMWE.ArnoldCalebPoster.png)
 
-Sample diffusion results of generated chest x-rays of patients with masses and consolidations in the left lung:
+Here are some sample diffusion results, featuring generated chest x-rays of patients with masses and consolidations in the left lung:
 
 ![Diffusion Mass](results/diffusion_mass_71.gif)![Diffusion Consolidation](results/diffusion_consolidation.gif)
 
